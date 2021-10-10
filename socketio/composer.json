@@ -1,0 +1,15 @@
+{
+  "name": "phpasync/phpsocketio-workerman",
+  "description": "Exemplos de uso do SocketIO com Workerman.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marcos Marcolin",
+      "email": "marcos_marcolin@hotmail.com"
+    }
+  ],
+  "require": {
+    "workerman/phpsocket.io": "^1.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "phpasync/workerman",
+  "description": "Exemplos de uso do Workerman.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marcos Marcolin",
+      "email": "marcos_marcolin@hotmail.com"
+    }
+  ],
+  "require": {
+    "workerman/workerman": "^4.0"
+  }
+}

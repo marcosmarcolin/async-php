@@ -1,0 +1,14 @@
+<html lang="pt-br">
+<head>
+    <title>SocketIO</title>
+
+    <!-- Scripts JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.slim.js"></script>
+    <script src="assets/js/index.js"></script>
+</head>
+<body>
+
+</body>
+</html>
