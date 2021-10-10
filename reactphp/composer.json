@@ -1,0 +1,15 @@
+{
+  "name": "asyncphp/reactphp",
+  "description": "Exemplos de uso do ReactPHP.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marcos Marcolin",
+      "email": "marcos_marcolin@hotmail.com"
+    }
+  ],
+  "require": {
+    "react/react": "^1.2"
+  }
+}
