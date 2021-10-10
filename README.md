@@ -30,7 +30,7 @@ Documentação completa do pacote: https://github.com/walkor/Workerman
 
 ## Ratchet (Chat básico)
 
-Ratchet é uma biblioteca PHP fracamente acoplada que fornece aos desenvolvedores ferramentas para criar aplicativos
+###Ratchet é uma biblioteca PHP fracamente acoplada que fornece aos desenvolvedores ferramentas para criar aplicativos
 bidirecionais em tempo real entre clientes e servidores por meio de WebSockets. Esta não é a Internet do seu avô.
 
 Para iniciar o serviço do Ratchet, execute no seu terminal no diretório do exemplo:
