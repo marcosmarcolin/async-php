@@ -13,7 +13,7 @@ $io->on('connection', function ($socket) use ($io) {
     });
 
     $socket->on('addUser', function ($user) use ($io) {
-        $msg = $user . ' entrou Chat!';
+        $msg = $user . ' entrou no Chat!';
         $io->emit('message', $msg);
     });
 
