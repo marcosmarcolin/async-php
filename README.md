@@ -26,11 +26,18 @@ Layout utilizado no exemplo: https://www.bootdey.com/snippets/view/animated-chat
 
 #### Workerman é uma estrutura de PHP orientada a eventos assíncronos com alto desempenho para construir aplicativos de rede rápidos e escaláveis. Workerman oferece suporte a HTTP, Websocket, SSL e outros protocolos personalizados. Workerman suporta extensão de evento.
 
+## Timer
+Você pode usar o **Timer**, para executar operação não bloqueante de tempo em tempo, com fácil configuração.
+
+Execute no terminal:
+
+`php timer.php start`
+
 Documentação completa do pacote: https://github.com/walkor/Workerman
 
 ## Ratchet (Chat básico)
 
-###Ratchet é uma biblioteca PHP fracamente acoplada que fornece aos desenvolvedores ferramentas para criar aplicativos
+### Ratchet é uma biblioteca PHP fracamente acoplada que fornece aos desenvolvedores ferramentas para criar aplicativos
 bidirecionais em tempo real entre clientes e servidores por meio de WebSockets. Esta não é a Internet do seu avô.
 
 Para iniciar o serviço do Ratchet, execute no seu terminal no diretório do exemplo:
