@@ -1,3 +1,6 @@
+# Exemplos criados para apresentação no IXCTalks, evento interno da IXCSoft, realizado presencialmente no dia 16 de Outubro de 2021.
+
+
 # Programação assíncrona com PHP
 
 Este repositório contém alguns exemplos de programação assíncrona em PHP, utilizando diversos pacotes.
