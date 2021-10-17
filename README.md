@@ -5,7 +5,7 @@
 
 Este repositório contém alguns exemplos de programação assíncrona em PHP, utilizando diversos pacotes.
 
-Para todos os exemplos, é necessário a instalação do Composer, para isso, navegue até a pasta do exemplo e execute:
+Para todos os exemplos, é necessário a instalação do Composer(exceto Swoole), para isso, navegue até a pasta do exemplo e execute:
 
 `composer install`
 
@@ -61,4 +61,17 @@ No navegador acesse: `http://localhost/async-php/ratchet`.
 
 Documentação completa do pacote: http://socketo.me/
 
+## Swoole
+
+### Extensão PHP de código aberto para Async IO, Coroutines e Fibers
+
+Para o Swoole, é necessário instalar a extensão: https://www.swoole.co.uk/docs/get-started/installation
+
+Exemplo de *Coroutine*, adição de exemplo, para execução assíncrona do *loop foreach*.
+
+Em seu terminal, execute:
+
+`php coroutine.php`
+
+Documentação completa da extensão: https://www.swoole.co.uk/
 
