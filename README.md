@@ -35,6 +35,16 @@ Execute no terminal:
 
 Documentação completa do pacote: https://github.com/walkor/Workerman
 
+## Websocket (Comunicação com o servidor)
+
+Você pode utilizar websocket para criar apliçações do tipo *realtime*, como **chats**.
+
+Execute no terminal:
+
+`php websocket.php start`
+
+No navegador acesse: `http://localhost/async-php/workerman/public`.
+
 ## Ratchet (Chat básico)
 
 ### Ratchet é uma biblioteca PHP fracamente acoplada que fornece aos desenvolvedores ferramentas para criar aplicativos
