@@ -73,5 +73,7 @@ Em seu terminal, execute:
 
 `php coroutine.php`
 
+`php coroutine-api.php`
+
 Documentação completa da extensão: https://www.swoole.co.uk/
 
