@@ -1,4 +1,4 @@
-# Exemplos criados para apresentação no IXCTalks, evento interno da IXCSoft, realizado presencialmente no dia 16 de Outubro de 2021.
+# Exemplos criados para apresentação no IXCTalks, evento interno da IXCSoft, realizado presencialmente no dia 19 de Outubro de 2021.
 
 
 # Programação assíncrona com PHP
